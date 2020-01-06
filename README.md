@@ -1,3 +1,5 @@
+##[Subins's Blog] - want to be a developer
+
 # Kiko Now
 
 *Read this in other languages: [English](README.md), [한국어](README.ko.md).*

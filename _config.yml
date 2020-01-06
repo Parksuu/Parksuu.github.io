@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Subin's Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: want to be a Developer oneday...
 
 #
 # Flags below are optional
@@ -22,15 +22,12 @@ avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-l
 navigation:
   - name: Blog
     url: /
-  - name: About
-    url: /about
   - name: Archive
     url: /archive
   - name: Tags
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
-
+  - name: About
+    url: /about
 # Pagination
 paginate: 5
 
@@ -64,7 +61,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: "https://parksuu.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
