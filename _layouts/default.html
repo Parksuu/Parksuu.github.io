@@ -1,21 +1,14 @@
 <!DOCTYPE html>
+<html class="no-js">
+  {% include head.html %}
+  {% include header.html %}
+  <body>
+    <div class="content">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
 
-<html>
-
-{% include head.html %}
-
-<body>
-
-  {% include navbar.html %}
-
-  {{ content }}
-
-  {% include footer.html %}
-
-  {% include scripts.html %}
-
-  {% include google-analytics.html %}
-
-</body>
-
+    {% include analytics-google.html %}
+  </body>
 </html>
