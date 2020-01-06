@@ -1,4 +1,4 @@
-# [Subin's Blog](https://parksuu.github.io/) - Operating developer's blog
+# [Subin's Blog](//https://parksuu.github.io/) - Operating developer's blog
 
 
 # Type Theme
