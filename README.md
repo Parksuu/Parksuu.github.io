@@ -1,4 +1,5 @@
-##[Subins's Blog] - want to be a developer
+# [Subin's Blog](https://parksuu.github.io/) - Operating developer's blog
+
 
 # Kiko Now
 
