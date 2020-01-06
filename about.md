@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+From 2020, <br>
+New start for Everything
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+github 주소
+[https://github.com/Parksuu](https://github.com/Parksuu) <br>
+email 주소
+[pigparksubin@naver.com](pigparksubin@naver.com)
