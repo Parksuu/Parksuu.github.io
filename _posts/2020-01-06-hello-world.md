@@ -2,8 +2,7 @@
 layout: post
 title: 드디어 성공인건가 화우
 tags:
-  - first
-  - post
+  - first post
 
 comments: true
 ---
