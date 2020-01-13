@@ -1,5 +1,5 @@
-# [Subin's Blog](https://parksuu.github.io/) - Operating developer's blog
-구경오세효
+# [Subin's Blog](https://parksuu.github.io/) - Operating developer's blog (2020.01.06~)
+구경오세효!
 <br>
 <br>
 <br>
