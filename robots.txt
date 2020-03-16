@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parksuu.github.io/sitemap.xml
