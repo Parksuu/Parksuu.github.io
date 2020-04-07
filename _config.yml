@@ -58,7 +58,10 @@ disqus: # <username>.disqus.com
 disque_shortname: Subin's Blog
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
-
+  provider: "google"
+  google:
+    tracking_id: "UA-162976015-1"
+    anonymize_ip: false # default
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: "https://parksuu.github.io"
