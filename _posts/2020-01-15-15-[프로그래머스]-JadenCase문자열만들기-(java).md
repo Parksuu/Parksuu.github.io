@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[프로그래머스] JadenCase 문자열 만들기 (java)"
+title: "[프로그래머스] JadenCase 문자열 만들기 (java) 문자열_String"
 tags:
   - Algorithum
   - 프로그래머스
@@ -13,7 +13,7 @@ comments: true
 
 
 
-###  JadenCase 문자열 만들기 (programers > lev2 > 문자열)
+###  JadenCase 문자열 만들기 (programers > lev2 > 문자열_String)
 
 [문제 링크](https://programmers.co.kr/learn/courses/30/lessons/12951)
 
